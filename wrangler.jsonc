@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2025-04-01",
+  "main": "src/index.ts",
+  "name": "testcrunchbase",
+  "upload_source_maps": true,
+  "observability": {
+    "enabled": true
+  },
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_name": "testcrunchbase",
+      "database_id": "8f8bc1a0-efce-425d-8778-791f92316229"
+    }
+  ]
+}
